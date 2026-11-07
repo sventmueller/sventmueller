@@ -40,4 +40,4 @@ My standard stack:
   wherever the cursor is. Online text arrives about 0.4 s after you let go. Offline, NVIDIA Parakeet
   turns 40 seconds of speech into text in about a third of a second. 35 languages.
 
-[LinkedIn](https://www.linkedin.com/in/sven-mueller-lindau/) · [daily.dev](https://daily.dev/svenmueller) · [insurware.com](https://insurware.com)
+[LinkedIn](https://www.linkedin.com/in/sven-mueller-lindau/) · [insurware.com](https://insurware.com)
