@@ -25,7 +25,7 @@ My standard stack:
 
 - **Backend:** Go and PostgreSQL with row-level security; sessions, queues and rate limits live in Postgres too
 - **Frontend:** single-page apps with Vite, React, TypeScript, Tailwind CSS and TanStack Router and Query
-- **Operations:** a modern monolith, one binary, one database, one container, on Docker Compose. Serverless scalability to the max
+- **Operations:** a modern monolith, one binary, one database, one container. Serverless scalability to the max
 
 ## Open source
 
