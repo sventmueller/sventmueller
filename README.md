@@ -6,6 +6,18 @@ Insurance tech consultant, developer and leader in Lindau on Lake Constance.
 I work where 40-year-old data formats and manual processes still eat everyone's day:
 I find out what is actually broken, and usually I stay and build the replacement.
 
+## Open source
+
+100 % Rust with the native interface of each operating system, currently macOS on AppKit. No Electron.
+
+- **[Splat](https://github.com/sventmueller/splat)**: an ultrafast, native Markdown editor for macOS.
+  Write in the source or straight in the preview. Lines you did not touch stay byte-for-byte
+  identical, so your Git diffs stay clean. A keystroke in a 10 MB document renders in about 10 ms.
+  LaTeX, Mermaid, Graphviz and PlantUML work offline, it exports to PDF, HTML and Word, and it speaks 35 languages.
+- **[Lowspeak](https://github.com/sventmueller/lowspeak)**: hold fn, talk, let go, and your words appear
+  wherever the cursor is. Online text arrives about 0.4 s after you let go. Offline, NVIDIA Parakeet
+  turns 40 seconds of speech into text in about a third of a second. 35 languages.
+
 ## Professional work
 
 **[Insurware](https://insurware.com)** provides digital insurance distribution and AI consulting for insurers
@@ -26,17 +38,5 @@ My standard stack:
 - **Backend:** Go and PostgreSQL with row-level security; sessions, queues and rate limits live in Postgres too
 - **Frontend:** single-page apps with Vite, React, TypeScript, Tailwind CSS and TanStack Router and Query
 - **Operations:** a modern monolith, one binary, one database, one container. Serverless scalability to the max
-
-## Open source
-
-100 % Rust with the native interface of each operating system, currently macOS on AppKit. No Electron.
-
-- **[Splat](https://github.com/sventmueller/splat)**: an ultrafast, native Markdown editor for macOS.
-  Write in the source or straight in the preview. Lines you did not touch stay byte-for-byte
-  identical, so your Git diffs stay clean. A keystroke in a 10 MB document renders in about 10 ms.
-  LaTeX, Mermaid, Graphviz and PlantUML work offline, it exports to PDF, HTML and Word, and it speaks 35 languages.
-- **[Lowspeak](https://github.com/sventmueller/lowspeak)**: hold fn, talk, let go, and your words appear
-  wherever the cursor is. Online text arrives about 0.4 s after you let go. Offline, NVIDIA Parakeet
-  turns 40 seconds of speech into text in about a third of a second. 35 languages.
 
 [LinkedIn](https://www.linkedin.com/in/sven-mueller-lindau/) · [insurware.com](https://insurware.com)
