@@ -1,7 +1,7 @@
 # Sven Müller
 
 Insurance tech consultant, developer and leader in Lindau on Lake Constance.
-30 years in IT, insurance and consulting, 17 of them as CTO. Still writing code, still shipping.
+25 years in IT, insurance and consulting, 17 of them as CTO. Still writing code, still shipping.
 
 I work where 40-year-old data formats and manual processes still eat everyone's day:
 I find out what is actually broken, and usually I stay and build the replacement.
@@ -20,7 +20,6 @@ brokers advise, customers sign, insurers receive complete applications, and ever
 
 **AI consulting:** applied AI in daily business with a human in the loop, model selection and operations,
 software architecture and AI-assisted development, aligned with GDPR, the Swiss FADP, DORA and the EU AI Act.
-Insurware itself is built with AI assistants, safeguarded by more than 100 automated quality gates.
 
 My standard stack:
 
